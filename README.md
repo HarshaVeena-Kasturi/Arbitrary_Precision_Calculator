@@ -8,7 +8,7 @@ This project is a command-line based **Arbitrary Precision Calculator** develope
 
 The application implements big number arithmetic **without using any external libraries**, relying instead on **dynamic data structures** and custom algorithms for complete accuracy.
 
-<img src="./assets/apc-banner.png" alt="Arbitrary Precision Calculator" width="800" />
+<img src="./asserts/APC.png" alt="Arbitrary Precision Calculator" width="1000" />
 
 ## 🎯 Objective
 
